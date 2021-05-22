@@ -1,6 +1,7 @@
 alias pa="php artisan"
 alias pas="php artisan serve"
 alias r:l="php artisan route:list"
+alias routepretty="php artisan route:pretty"
 alias controller="php artisan make:controller"
 alias model="php artisan make:model"
 alias migrate="php artisan migrate"
